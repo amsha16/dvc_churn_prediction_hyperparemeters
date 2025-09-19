@@ -1,0 +1,4 @@
+params:
+- dvclive-optuna/params.yaml
+metrics:
+- dvclive-optuna/metrics.json
