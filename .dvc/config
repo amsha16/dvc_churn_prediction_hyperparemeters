@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = C:\Users\achla\Downloads\ML\dvc_stoarge3_hytuning
